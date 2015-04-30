@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose scale node-chrome=$1 node-firefox=$1
+docker-compose scale chrome=$1 firefox=$1
